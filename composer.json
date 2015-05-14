@@ -1,0 +1,29 @@
+{
+  "name": "mikevrind/exact-online",
+  "description": "",
+  "license": "MIT",
+  "keywords": [
+    "exact",
+    "online",
+    "laravel"
+  ],
+  "authors": [
+    {
+      "name": "Mike de Vrind",
+      "email": "mike@u-lab.nl"
+    },
+    {
+      "name": "Sven Stolk",
+      "email": "sven@u-lab.nl"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Exact\\": "Exact"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+## Directory-based project format:
+.idea/
+vendor/
+
+# Files
+composer.lock
